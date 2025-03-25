@@ -1,0 +1,5 @@
+package com.store.orderService.model;
+
+public enum PaymentMode {
+    
+}
