@@ -1,4 +1,0 @@
-package com.store.orderService.service;
-
-public interface OrderService {
-}
